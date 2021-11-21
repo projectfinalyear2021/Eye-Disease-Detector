@@ -1,1 +1,1 @@
-# Eye-Disease-Detector
+# COVID-19-CHEST-X-RAY-DETECTOR
